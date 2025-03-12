@@ -1,5 +1,5 @@
 # Jeu_de_Grundy
-Mes version du Jeu de Grundy, réalisées en coopération avec @KeroZd, au cours de ma formation à l'IUT de Vannes. Il y a  5 version, chaque version étant plus optimisée en temps et en nombre d'opérations que la précédente.
+Mes version du Jeu de Grundy, réalisées en coopération avec Emile Thevenin, au cours de ma formation à l'IUT de Vannes. Il y a  5 version, chaque version étant plus optimisée en temps et en nombre d'opérations que la précédente.
 
 L’objectif principal de ce projet était la mise en œuvre de différents algorithmes pour résoudre un même problème.
 Par comparaison d’approches algorithmiques distinctes, il était demandé de mettre en évidence par
